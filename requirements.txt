@@ -1,2 +1,2 @@
 fastapi
-uvicorn
+uvicorngit push -u origin main
